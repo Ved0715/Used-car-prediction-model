@@ -17,7 +17,6 @@ Our Car Prediction Model is built on state-of-the-art deep learning techniques t
 ## Features
 
 - **Multi-Task Learning:** Our model is capable of simultaneously predicting multiple attributes, making it versatile and useful for a wide range of applications.
-- **User-Friendly Interface:** We have developed a user-friendly interface to make predictions easy and accessible for everyone.
 - **Scalability:** The model can scale to handle large datasets, making it suitable for both small and large projects.
 
 ## Installation
@@ -27,6 +26,7 @@ To get started with the Car Prediction Model, follow the installation instructio
 
 
 ## Dataset
+
 
 Our model has been trained on a dataset from kagle. This is a dataset that can be used to apply regression algorithms for beginners. There are no missing value and the data set is small too.
 The data set gives the second hand price of cars and its features like <br>
@@ -42,6 +42,10 @@ top speed <br>
 hp<br>
 torque <br>
 current price.<br>
+
+
+NOTE:
+The the data base size is small so the loss is high.<b>This model is just for learning perpose.</b>
 
 
 
