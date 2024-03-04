@@ -5,7 +5,6 @@ Welcome to our Car Prediction Model repository! This project utilizes cutting-ed
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Dataset](#dataset)
 
