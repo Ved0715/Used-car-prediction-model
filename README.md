@@ -14,11 +14,6 @@ Welcome to our Car Prediction Model repository! This project utilizes cutting-ed
 
 Our Car Prediction Model is built on state-of-the-art deep learning techniques to predict various attributes of cars, such as price, mileage, and more. The model has been trained on a comprehensive dataset to provide accurate and reliable predictions.
 
-## Features
-
-- **Multi-Task Learning:** Our model is capable of simultaneously predicting multiple attributes, making it versatile and useful for a wide range of applications.
-- **Scalability:** The model can scale to handle large datasets, making it suitable for both small and large projects.
-
 ## Installation
 
 To get started with the Car Prediction Model, follow the installation instructions outlined in the [INSTALL.md](INSTALL.md) file. This will guide you through the setup process, ensuring you have all the necessary dependencies installed.
@@ -45,7 +40,7 @@ current price.<br>
 
 
 NOTE:
-The the data base size is small so the loss is high.<b>This model is just for learning perpose.</b>
+The data base size is small and the deep learning model created is a bess model to understand how things work, so the loss is high.<b>This model is just for learning perpose.</b>
 
 
 
